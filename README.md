@@ -1,5 +1,8 @@
 # Notification Service dengan RabbitMQ dan Flask 🚀
 
+### screenshot
+<img src="screenshot.png" width="300">
+
 ### Buat sebuah virtual environment
 ```
 python3 -m venv .venv
