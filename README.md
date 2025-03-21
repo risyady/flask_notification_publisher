@@ -21,7 +21,7 @@ python run.py
 
 ### Menguji aplikasi
 ```
-curl -X POST http://localhost:8080/publish \
+curl -X POST http://localhost:5000/publish \
      -H "Content-Type: application/json" \
      -d '{
           "order_id": "12345",
